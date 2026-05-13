@@ -1,6 +1,10 @@
-# Cudy-TR3000-V1-112M-ImmortalWrt25.12
+# ImmortalWrt-25.12
+    Cudy-TR3000-V1-112M
+    360T7
+    Xiaomi AX3000T 112M
+	
 
-## 20260327：WiFi加密方式WPA3有些低端设备连接不上
+## WiFi加密方式WPA3有些设备连接不上
 
 
 
